@@ -1,0 +1,11 @@
+/Users/hananfarizta/Documents/Qwiik-Casework/TriangleApi/Triangle.Backend/Triangle.Domain/bin/Debug/net6.0/Triangle.Domain.deps.json
+/Users/hananfarizta/Documents/Qwiik-Casework/TriangleApi/Triangle.Backend/Triangle.Domain/bin/Debug/net6.0/Triangle.Domain.dll
+/Users/hananfarizta/Documents/Qwiik-Casework/TriangleApi/Triangle.Backend/Triangle.Domain/bin/Debug/net6.0/Triangle.Domain.pdb
+/Users/hananfarizta/Documents/Qwiik-Casework/TriangleApi/Triangle.Backend/Triangle.Domain/obj/Debug/net6.0/Triangle.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hananfarizta/Documents/Qwiik-Casework/TriangleApi/Triangle.Backend/Triangle.Domain/obj/Debug/net6.0/Triangle.Domain.AssemblyInfoInputs.cache
+/Users/hananfarizta/Documents/Qwiik-Casework/TriangleApi/Triangle.Backend/Triangle.Domain/obj/Debug/net6.0/Triangle.Domain.AssemblyInfo.cs
+/Users/hananfarizta/Documents/Qwiik-Casework/TriangleApi/Triangle.Backend/Triangle.Domain/obj/Debug/net6.0/Triangle.Domain.csproj.CoreCompileInputs.cache
+/Users/hananfarizta/Documents/Qwiik-Casework/TriangleApi/Triangle.Backend/Triangle.Domain/obj/Debug/net6.0/Triangle.Domain.dll
+/Users/hananfarizta/Documents/Qwiik-Casework/TriangleApi/Triangle.Backend/Triangle.Domain/obj/Debug/net6.0/refint/Triangle.Domain.dll
+/Users/hananfarizta/Documents/Qwiik-Casework/TriangleApi/Triangle.Backend/Triangle.Domain/obj/Debug/net6.0/Triangle.Domain.pdb
+/Users/hananfarizta/Documents/Qwiik-Casework/TriangleApi/Triangle.Backend/Triangle.Domain/obj/Debug/net6.0/ref/Triangle.Domain.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Triangle.Api.props" />
+</Project>

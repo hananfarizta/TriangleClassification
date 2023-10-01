@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{34B36F4E-695D-407E-B6FA-8219CFFED8C3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Triangle.Api PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Triangle.Domain/CustomAttributes/ValidationAtrtribute.cs">
+    <Files>
+      <File FileName="Triangle.Domain/Services/Interfaces/ITriangleService.cs" Line="8" Column="1" />
+      <File FileName="Triangle.Domain/CustomAttributes/ValidationAtrtribute.cs" Line="12" Column="51" />
+      <File FileName="Triangle.Api/Program.cs" Line="16" Column="40" />
+      <File FileName="Triangle.Domain/Dto/TriangleDto.cs" Line="7" Column="29" />
+      <File FileName="Triangle.Api/Controllers/TriangleController.cs" Line="20" Column="72" />
+      <File FileName="Triangle.Test/UnitTest1.cs" Line="18" Column="1" />
+      <File FileName="Triangle.Domain/Services/Implementation/TriangleService.cs" Line="29" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TriangleClassification" expanded="True">
+            <Node name="Triangle.Api" expanded="True" />
+            <Node name="Triangle.Domain" expanded="True" />
+            <Node name="Triangle.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
